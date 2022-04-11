@@ -1,0 +1,18 @@
+{
+  "UserInfo":[  
+  {
+    "UserId": "0",
+    "firstname": "Jonathan",
+    "Surname": "Bardwell",
+    "MaxGold": "525",
+    "Team": "Red"
+  },
+  {
+    "UserId": "1",
+    "firstname": "DEVLIN",
+    "Surname": "Tari",
+    "MaxGold": "920",
+    "Team": "Blue"
+    }
+  ]
+}
